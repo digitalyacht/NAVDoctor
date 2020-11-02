@@ -30,5 +30,18 @@ Included in this repository are:-
 
 Below is a training video on how you can use the NAVDoctor to disgnose and test an NMEA 2000 network.
 
-[![NAVDoctor Training Video](https://youtu.be/0hp9t8hmCwI/0.jpg)](https://www.youtube.com/watch?v=0hp9t8hmCwI)
+[![NAVDoctor Training Video](https://img.youtube.com/vi/0hp9t8hmCwI/0.jpg)](https://www.youtube.com/watch?v=0hp9t8hmCwI)
+
+We are continuously updating NAVDoctor and below is the Firmware history...
+
+V1.04b  -  Removed Caching on Device List and Product/Config Info
+
+V1.03b  -  
+
+V1.02b  -  
+
+V1.01b  -  
+
+V1.00b  -  Initial Release
+
 
