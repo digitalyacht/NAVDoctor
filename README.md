@@ -28,7 +28,7 @@ Included in this repository are:-
 
 *3.  Latest User Manual for NAVDoctor (pdf)*
 
-Below is a training video on how you can use the NAVDoctor to disgnose and test an NMEA 2000 network.
+Below is a training video on how you can use the NAVDoctor to diagnose and test an NMEA 2000 network.
 
 [![NAVDoctor Training Video](https://img.youtube.com/vi/0hp9t8hmCwI/0.jpg)](https://www.youtube.com/watch?v=0hp9t8hmCwI)
 
@@ -38,11 +38,11 @@ V1.05   -  Use NSM to check Device Table is fully populated, take DIN from NMEA 
 
 V1.04b  -  Removed Caching on Device List and Product/Config Info
 
-V1.03b  -  
+V1.03b  -  Internal Release Only
 
-V1.02b  -  
+V1.02b  -  Ignore devices with invalid NMEA Names i.e. FFFFFFFFFFFFFFFF
 
-V1.01b  -  
+V1.01b  -  Updated Manufacturers List
 
 V1.00b  -  Initial Release
 
