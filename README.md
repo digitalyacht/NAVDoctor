@@ -22,9 +22,9 @@ For more information on using NAVDoctor please download the User Manual or watch
 
 Included in this repository are:-
 
-*1.  NAVDoctor Dealer Presentation (pdf)*
+*1.  NAVDoctor Product Release Presentation (pdf)*
 
-*2.  The latest NAVDoctor firmware (1.04b)*
+*2.  The latest NAVDoctor firmware (1.05)*
 
 *3.  Latest User Manual for NAVDoctor (pdf)*
 
@@ -33,6 +33,8 @@ Below is a training video on how you can use the NAVDoctor to disgnose and test 
 [![NAVDoctor Training Video](https://img.youtube.com/vi/0hp9t8hmCwI/0.jpg)](https://www.youtube.com/watch?v=0hp9t8hmCwI)
 
 We are continuously updating NAVDoctor and below is the Firmware history...
+
+V1.05   -  Use NSM to check Device Table is fully populated, take DIN from NMEA Name
 
 V1.04b  -  Removed Caching on Device List and Product/Config Info
 
