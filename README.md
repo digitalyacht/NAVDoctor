@@ -1,6 +1,6 @@
 # NAVDoctor
 
-Welcome to our NAVDoctor GitHub site. This site is intended to be a central hub for all NAVDoctor users to access important updates, report any issues they have found or request new features. 
+Welcome to our NAVDoctor GitHub site. This site is intended to be a central hub for all NAVDoctor users to access important updates, report any issues they have found or request new features.
 <br>
 <img src="https://github.com/digitalyacht/NAVDoctor/raw/main/Images/NavDoctor.jpg" width=70%>
 <br>
@@ -12,7 +12,7 @@ Once plugged in to a spare "T-Piece" on the NMEA 2000 network, NAVDoctor will cr
 
 Once wirelessly connected, open a browser on your mobile device and you should be able to access the NAVDoctor's web interface at...
 
-http://192.168.1.1   or   http://navdoctor.local 
+http://192.168.1.1   or   http://navdoctor.local
 
 ...which will display the home page as shown below.
 
@@ -24,7 +24,7 @@ Included in this repository are:-
 
 *1.  NAVDoctor Product Release Presentation (pdf)*
 
-*2.  The latest NAVDoctor firmware (1.05)*
+*2.  The latest NAVDoctor firmware (1.06)*
 
 *3.  Latest User Manual for NAVDoctor (pdf)*
 
@@ -33,6 +33,8 @@ Below is a training video on how you can use the NAVDoctor to diagnose and test 
 [![NAVDoctor Training Video](https://img.youtube.com/vi/0hp9t8hmCwI/0.jpg)](https://www.youtube.com/watch?v=0hp9t8hmCwI)
 
 We are continuously updating NAVDoctor and below is the Firmware history...
+
+V1.06   -  Fix display of Signed Integers in PGN Data Window
 
 V1.05   -  Use NSM to check Device Table is fully populated, take DIN from NMEA Name
 
@@ -45,5 +47,3 @@ V1.02b  -  Ignore devices with invalid NMEA Names i.e. FFFFFFFFFFFFFFFF
 V1.01b  -  Updated Manufacturers List
 
 V1.00b  -  Initial Release
-
-
