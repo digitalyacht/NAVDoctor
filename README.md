@@ -24,7 +24,7 @@ Included in this repository are:-
 
 *1.  NAVDoctor Product Release Presentation (pdf)*
 
-*2.  The latest NAVDoctor firmware (1.06)*
+*2.  The latest NAVDoctor firmware (2.20)*
 
 *3.  Latest User Manual for NAVDoctor (pdf)*
 
@@ -34,16 +34,16 @@ Below is a training video on how you can use the NAVDoctor to diagnose and test 
 
 We are continuously updating NAVDoctor and below is the Firmware history...
 
-V1.06   -  Fix display of Signed Integers in PGN Data Window
+v2.2 - mDNS issue when on same network as NavLink2
 
-V1.05   -  Use NSM to check Device Table is fully populated, take DIN from NMEA Name
+v2.1 - OTA firmware update function improved
 
-V1.04b  -  Removed Caching on Device List and Product/Config Info
+v2.0 - fixing Gateway firmware version display
 
-V1.03b  -  Internal Release Only
+v1.9 - Displaying its own IP address on Settings page
 
-V1.02b  -  Ignore devices with invalid NMEA Names i.e. FFFFFFFFFFFFFFFF
+v1.8 - Proprietary PGN support
 
-V1.01b  -  Updated Manufacturers List
+v1.6 - introducing signed int to display negative values on PGN page popup window
 
-V1.00b  -  Initial Release
+v1.5 - Device List updated. Every 2 seconds checks NSM to see if number of devices are the same as number of lines in device list. Makes a request to STM32 for NAME`s if not. Instance field also improved.
