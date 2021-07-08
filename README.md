@@ -24,7 +24,7 @@ Included in this repository are:-
 
 *1.  NAVDoctor Product Release Presentation (pdf)*
 
-*2.  The latest NAVDoctor firmware (2.20)*
+*2.  The latest NAVDoctor firmware (2.40)*
 
 *3.  Latest User Manual for NAVDoctor (pdf)*
 
@@ -33,6 +33,10 @@ Below is a training video on how you can use the NAVDoctor to diagnose and test 
 [![NAVDoctor Training Video](https://img.youtube.com/vi/0hp9t8hmCwI/0.jpg)](https://www.youtube.com/watch?v=0hp9t8hmCwI)
 
 We are continuously updating NAVDoctor and below is the Firmware history...
+
+v2.4 - PGN page popup: units converted to more conventional
+
+v2.3 - New PGN 128780 added for Jack Plate, sending welcome text to tcp/udp
 
 v2.2 - mDNS issue when on same network as NavLink2
 
