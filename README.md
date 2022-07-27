@@ -24,7 +24,7 @@ Included in this repository are:-
 
 *1.  NAVDoctor Product Release Presentation (pdf)*
 
-*2.  The latest NAVDoctor firmware (2.40)*
+*2.  The latest NAVDoctor firmware (2.43)*
 
 *3.  Latest User Manual for NAVDoctor (pdf)*
 
@@ -33,6 +33,8 @@ Below is a training video on how you can use the NAVDoctor to diagnose and test 
 [![NAVDoctor Training Video](https://img.youtube.com/vi/0hp9t8hmCwI/0.jpg)](https://www.youtube.com/watch?v=0hp9t8hmCwI)
 
 We are continuously updating NAVDoctor and below is the Firmware history...
+
+v2.43 - Improved Help text plus couple of formatting improvements
 
 v2.4 - PGN page popup: units converted to more conventional
 
